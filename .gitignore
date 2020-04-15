@@ -1,0 +1,39 @@
+.DS_Store
+.sass-cache
+.tmp
+*.css.map
+*.js.map
+*.pyc
+backstop_data/bitmaps_test
+backstop_data/html_report
+node_modules
+npm-debug.log
+package-lock.json
+
+credentials.json
+
+
+
+#ignore all video files
+*.wmv
+*.mpg
+*.mpeg
+*.mp4
+*.mov
+*.flv
+*.avi
+*.ogv
+*.ogg
+*.webm
+
+#ignore audio file
+*.wav
+*.mp3
+
+#ingore subtitles files
+*.srt
+*.sbv
+*.vtt
+*.ttml
+*.itt
+© 2019 GitHub, Inc.
