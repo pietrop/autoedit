@@ -1,4 +1,4 @@
-# digital-paper-edit-project-page
+# ~digital-paper-edit-project-page~ autoEdit 3
 
 
 ## Setup
