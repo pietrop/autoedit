@@ -75,7 +75,8 @@ hr {
    ========================================================================== */
 
 #headerwrap {
-  background-color: #34495e;
+  /* background-color: #34495e; */
+  background-color: #084177;
   padding-top: 60px;
 }
 
@@ -120,7 +121,8 @@ hr {
 
 #showcase {
   display: block;
-  background-color: #34495e;
+  /* background-color: #34495e; */
+  background-color: #084177;
   padding-top: 50px;
   padding-bottom: 50px;
 }
